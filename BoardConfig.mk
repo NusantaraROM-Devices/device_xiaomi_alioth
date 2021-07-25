@@ -37,5 +37,8 @@ TARGET_SCREEN_DENSITY := 420
 # Kernel
 TARGET_KERNEL_CONFIG := vendor/alioth_defconfig
 
+# OTA assert
+TARGET_OTA_ASSERT_DEVICE := alioth,aliothin
+
 # Inherit from the proprietary version
 include vendor/xiaomi/alioth/BoardConfigVendor.mk
