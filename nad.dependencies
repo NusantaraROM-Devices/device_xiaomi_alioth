@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "android_device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common"
+  },
+  {
+    "repository": "kernel_xiaomi_sm8250",
+    "target_path": "kernel/xiaomi/sm8250",
+    "clone-depth": "1",
+    "branch": "11-quantic-upstreamed"
+  },
+  {
+    "repository": "vendor_xiaomi_alioth",
+    "target_path": "vendor/xiaomi/alioth,
+    "branch": "11"
+  }
+]
