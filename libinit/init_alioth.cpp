@@ -20,10 +20,10 @@ static const variant_info_t aliothcn_info = {
 };
 
 static const variant_info_t aliothin_info = {
-    .hwc_value = "INDIA",
-    .sku_value = "",
+    .hwc_value = "",
+    .sku_value = "std",
 
-    .brand = "Xiaomi",
+    .brand = "Mi",
     .device = "aliothin",
     .marketname = "Mi 11X",
     .model = "M2012K11AI",
@@ -33,8 +33,8 @@ static const variant_info_t aliothin_info = {
 };
 
 static const variant_info_t alioth_info = {
-    .hwc_value = "GLOBAL",
-    .sku_value = "",
+    .hwc_value = "",
+    .sku_value = "pro",
 
     .brand = "POCO",
     .device = "alioth",
