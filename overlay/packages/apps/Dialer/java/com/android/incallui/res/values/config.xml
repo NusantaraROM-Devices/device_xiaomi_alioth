@@ -17,4 +17,6 @@
 <resources>
   <!-- Whether to check that the proximity is unblocked before showing the incoming call UI. -->
   <bool name="config_answer_proximity_sensor_enabled">false</bool>
+       <!-- Whether to show min/max refresh rate in display settings -->
+  <bool name="config_show_refresh_rate_controls">true</bool>
 </resources>
