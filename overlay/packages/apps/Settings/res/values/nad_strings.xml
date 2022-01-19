@@ -13,6 +13,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Overlay for maintainer --> 
     <string name="maintainer_name">ThunderkeX</string>
+    <string name="github_username">thunderkex</string> 
+    <string name="telegram_username">thunderkexxx</string>
 
 </resources>
